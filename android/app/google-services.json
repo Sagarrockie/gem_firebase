@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546636966418",
+    "project_id": "gemicates-85cbc",
+    "storage_bucket": "gemicates-85cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546636966418:android:9506cf090f35ec1d4f86cb",
+        "android_client_info": {
+          "package_name": "com.example.gemicates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKyR3Ss7v72RR6MF2LddsK3pPvNe4W1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
