@@ -3,6 +3,16 @@
 A new Flutter project.
 
 ## Getting Started
+project architecture : MVC
+lib/utils/services/ : Remote Config configuration
+lib/controller/product_controller : Dummy Json Products API call
+lib/controller/auth_controller : Firebase authorization(Login and signup)
+lib/model/ : Product response model
+lib/view/login_view : Login view
+lib/view/singup_view : Signup view
+lib/view/product_description : Product listing page
+lib/view/home_screen_view : Landing page
+
 
 This project is a starting point for a Flutter application.
 
